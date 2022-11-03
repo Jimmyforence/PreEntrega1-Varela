@@ -1,0 +1,22 @@
+
+
+.navi
+{
+    display: flex;
+    justify-content: space-between;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: black;
+}
+
+
+h1
+{
+   color: azure;
+}
+
+.navi li
+{
+    list-style: none ;
+    margin-top: 35px;
+}
+
