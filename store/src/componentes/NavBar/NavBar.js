@@ -7,7 +7,7 @@ const NavBar = () => {
     <div className='navi'>
         <h1 className='storeName'>Abuguet Store</h1>
     <li>
-        <a href='' className='products'>Productos</a>
+    
     </li>
     <li>
         <a href='' className='pedidos'>Pedidos</a>
@@ -21,5 +21,6 @@ const NavBar = () => {
    
   )
 }
+//          <NavLink to= "/productos">Productos</NavLink>
 
 export default NavBar

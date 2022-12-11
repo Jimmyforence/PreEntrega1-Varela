@@ -9,6 +9,7 @@ function App() {
     <NavBar/>
     <ILC name='Bienvenidos a la mejor tienda del mundo' />
     <ItemDetailContainer/>
+    <Catalogo/>
     </>
   );
 }
